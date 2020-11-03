@@ -1,3 +1,4 @@
+require relative '../kickstarter_scraper'
 require "nokogiri"
 require "pry"
 
