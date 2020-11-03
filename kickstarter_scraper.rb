@@ -1,4 +1,4 @@
-require_relative '../kickstarter_scraper'
+require_relative 'rspec ./spec/spec_helper.rb'
 require "nokogiri"
 require "pry"
 
