@@ -30,4 +30,3 @@ end
  # description: project.css("p.bbcard_blurb").text
  #project.css("ul.project-meta").text.strip
  #project.css("ul.project-stats li.first.funded strong").text.gsub("%", "").to_i
-
