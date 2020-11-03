@@ -176,7 +176,7 @@ that the title of each project lives in an `h2` with a class of `bbcard_name`,
 inside a `strong` and then an `a` tag. Let's check that in pry:
 
 ```ruby
-
+project.css("h2.bbcard_name strong a").text
 ```
 
 Since Nokogiri gives us a bunch of nested nodes that all respond to the same
